@@ -1,4 +1,4 @@
-# Forty Theme
+# Fifty Theme
 
 Forty theme is a multi page website built around a grid of image tiles that transition into its content pages. It is a ported theme built by [HTML5 UP](https://html5up.net/). This theme contains many styled elements and features a contact form. Built for blogs, businesses, or freelancers.
 
