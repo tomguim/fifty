@@ -1,6 +1,6 @@
 name = "Fifty"
 license = "Creative Commons Attribution 3.0"
-licenselink = "https://github.com/MarcusVirg/forty/blob/master/LICENSE.md"
+licenselink = "https://github.com/tomguim/fifty/blob/master/LICENSE.md"
 description = "A portfolio/blog website built for companies or personal freelancers."
 homepage = "//github.com/tomguim/fifty"
 tags = ["portfolio", "company", "contact form", "google analytics", "blog"]
@@ -15,4 +15,4 @@ min_version = "0.55"
 [original]
   author = "AJ"
   name = "HTML5 Up"
-  homepage = "https://html5up.net/forty"
+  homepage = "https://html5up.net/fifty"
